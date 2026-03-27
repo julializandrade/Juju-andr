@@ -1,29 +1,39 @@
-## Olá, eu sou a Júlia Andrade! 👋
- Sou uma entusiasta da tecnologia em constante evolução, com interesse em desenvolvimento de software e construção de soluções digitais que gerem impacto real.
+# 👩‍💻 Olá, eu sou a Júlia!
 
-Atualmente, estou desenvolvendo minhas habilidades na área de programação. Busco sempre aprimorar meus conhecimentos através de cursos, projetos práticos e participação em eventos como imersões e workshops.
+🎓 Estudante de Tecnologia  
+💡 Apaixonada por desenvolvimento e aprendizado contínuo  
+🚀 Em busca da minha primeira oportunidade na área de TI  
 
-Sou uma pessoa com facilidade de aprendizado, organização, proatividade e boa comunicação, sempre aberta a novos desafios e oportunidades de crescimento na área de tecnologia.
+---
 
-Em busca de oportunidades para ganhar experiência prática, contribuir com projetos e evoluir como desenvolvedora.
+## 🧠 Sobre mim
 
-- 🔭 Atualmente estudando para ser dev em Front-end
-- 🌱 Estudando JavaScript e TypeScript
-- 😄 Pronomes: Ela/Dela
+- 📚 Estudando HTML, CSS e JavaScript
+- 💻 Interesse em Front-end
+- 📈 Sempre evoluindo e aprendendo coisas novas
+- 🤝 Gosto de trabalhar em equipe e compartilhar conhecimento
 
-<div align="center">
-  <a href="https://github.com/julializandrade">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=julializandrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julializandrade&layout=compact&langs_count=8&theme=dracula"/>
+---
+
+## 🚀 Tecnologias que uso
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div>
+  <a href="https://github.com/SEU-USUARIO">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
-<div align="center">
-  <img height="190em" src="https://streak-stats.demolab.com?user=julializandrade&theme=dracula&hide_border=true"/>
-</div>
+---
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Julia-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Julia-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Julia-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+## 🌐 Onde me encontrar
