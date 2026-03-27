@@ -1,4 +1,11 @@
 ## Olá, eu sou a Júlia Andrade! 👋
+ Sou uma entusiasta da tecnologia em constante evolução, com interesse em desenvolvimento de software e construção de soluções digitais que gerem impacto real.
+
+Atualmente, estou desenvolvendo minhas habilidades na área de programação. Busco sempre aprimorar meus conhecimentos através de cursos, projetos práticos e participação em eventos como imersões e workshops.
+
+Sou uma pessoa com facilidade de aprendizado, organização, proatividade e boa comunicação, sempre aberta a novos desafios e oportunidades de crescimento na área de tecnologia.
+
+Em busca de oportunidades para ganhar experiência prática, contribuir com projetos e evoluir como desenvolvedora.
 
 - 🔭 Atualmente estudando para ser dev em Front-end
 - 🌱 Estudando JavaScript e TypeScript
